@@ -1,0 +1,21 @@
+{
+    "name": "node-express",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Node Express test",
+    "keywords": [],
+    "dependencies": {
+        "express": "~4.13.4"
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+    },
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "git://bitbucket.org/example/example.git"
+    },
+    "author": "Alexandre Pereira <alex@gooood.biz>",
+    "license": "WTFPL"
+}
